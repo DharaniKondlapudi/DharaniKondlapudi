@@ -5,6 +5,7 @@
 💡 I build dashboards and data pipelines that drive decisions.
 
 ### 🔧 Tools & Skills
+---
 - SQL (Oracle, BigQuery)
 - Tableau, Power BI
 - AWS, Googlecloud
@@ -20,16 +21,17 @@
 - 💬 Pronouns: **She/Her**
 - 🧠 Fun fact: I once debugged a broken ETL job by tracing it to a missing comma in a 3GB log file — and I actually enjoyed it!
 - Always learning, always analyzing.
+  
 
-  📊 GitHub Stats:
-
+![📊 GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-purple?style=for-the-badge&logo=github)
+---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharaniKondlapudi&show_icons=true&theme=default)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DharaniKondlapudi&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniKondlapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🏆 GitHub Trophies
+🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DharaniKondlapudi&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
