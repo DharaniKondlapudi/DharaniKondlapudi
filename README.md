@@ -11,9 +11,11 @@
 - Python (Pandas, PySpark, Numpy)
 - Hive, Hadoop, Apache Kafka, Big data
 - Cohort analysis, A/B testing, KPI tracking
+- Passionate about data, dashboards, and decisions.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/dharaniks) | [Email](mailto:kondlapudidharani@gmail.com)
 - 💬 Pronouns: **She/Her**
 - 🧠 Fun fact: I once debugged a broken ETL job by tracing it to a missing comma in a 3GB log file — and I actually enjoyed it!
+- Always learning, always analyzing.
 
 <!---
 Dharanik1997/Dharanik1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
